@@ -1,4 +1,4 @@
-def sendEmail(emailID)
+def call(emailID)
 {
   echo "Email is sent sucessfully";
 }
